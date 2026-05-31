@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcync",
+        "uuid": 27020112,
+        "checksum": "x4hlj7"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
